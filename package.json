@@ -1,8 +1,11 @@
 {
+  "name": "hexryx",
+  "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "build": "vite build",
     "dev": "vite",
-    "start": "vite --host 0.0.0.0"
+    "build": "vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
